@@ -1,0 +1,5 @@
+{
+  "name": "World of Books Explorer",
+  "description": "A product exploration platform to navigate and discover books from World of Books, featuring categories, product details, and reviews, all powered by a mock API to simulate on-demand data fetching.",
+  "requestFramePermissions": []
+}
